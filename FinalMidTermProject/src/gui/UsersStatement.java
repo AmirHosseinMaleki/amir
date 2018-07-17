@@ -190,7 +190,7 @@ public class Statement {
 		frame.getContentPane().add(lblGameOver);
 		
 		JLabel label_6 = new JLabel("");
-		label_6.setIcon(new ImageIcon(Statement.class.getResource("/pic/Statement.jpg")));
+		label_6.setIcon(new ImageIcon(Statement.class.getResource("/images/UsersStatementPic.jpg")));
 		label_6.setBounds(0, 0, 698, 420);
 		frame.getContentPane().add(label_6);
 	}

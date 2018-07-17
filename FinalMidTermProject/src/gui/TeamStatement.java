@@ -276,7 +276,7 @@ public class TeamStatement {
 		frame.getContentPane().add(lblGoogle_1);
 		
 		JLabel label_13 = new JLabel("");
-		label_13.setIcon(new ImageIcon(TeamStatement.class.getResource("/Pic/background-board-caffeine-951234.jpg")));
+		label_13.setIcon(new ImageIcon(TeamStatement.class.getResource("/images/TeamStatement.jpg")));
 		label_13.setBounds(0, 0, 703, 437);
 		frame.getContentPane().add(label_13);
 	}

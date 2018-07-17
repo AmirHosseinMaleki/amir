@@ -53,7 +53,7 @@ public class StartTime {
 		frame.getContentPane().add(lblNewLabel);
 		
 		JLabel lblNewLabel_1 = new JLabel("");
-		lblNewLabel_1.setIcon(new ImageIcon(StartTime.class.getResource("/pic/time.jpg")));
+		lblNewLabel_1.setIcon(new ImageIcon(StartTime.class.getResource("/images/time.jpg")));
 		lblNewLabel_1.setBounds(0, 0, 596, 403);
 		frame.getContentPane().add(lblNewLabel_1);
 	}

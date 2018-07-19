@@ -125,43 +125,43 @@ public class TeamStatement {
 		frame.getContentPane().add(lblTheWinnerTeam);
 		
 		JLabel label_2 = new JLabel("");
-		label_2.setIcon(new ImageIcon(TeamStatement.class.getResource("/Pic/Queue_48px.png")));
+		label_2.setIcon(new ImageIcon(TeamStatement.class.getResource("/images/Queue_48px.png")));
 		label_2.setHorizontalAlignment(SwingConstants.CENTER);
 		label_2.setBounds(38, 257, 90, 32);
 		frame.getContentPane().add(label_2);
 		
 		JLabel label_3 = new JLabel("");
-		label_3.setIcon(new ImageIcon(TeamStatement.class.getResource("/Pic/Gender Neutral User_16px.png")));
+		label_3.setIcon(new ImageIcon(TeamStatement.class.getResource("/images/Gender Neutral User_16px.png")));
 		label_3.setHorizontalAlignment(SwingConstants.CENTER);
 		label_3.setBounds(184, 181, 40, 30);
 		frame.getContentPane().add(label_3);
 		
 		JLabel label_4 = new JLabel("");
-		label_4.setIcon(new ImageIcon(TeamStatement.class.getResource("/Pic/Gender Neutral User_16px.png")));
+		label_4.setIcon(new ImageIcon(TeamStatement.class.getResource("/images/Gender Neutral User_16px.png")));
 		label_4.setHorizontalAlignment(SwingConstants.CENTER);
 		label_4.setBounds(184, 225, 40, 30);
 		frame.getContentPane().add(label_4);
 		
 		JLabel label_5 = new JLabel("");
-		label_5.setIcon(new ImageIcon(TeamStatement.class.getResource("/Pic/Gender Neutral User_16px.png")));
+		label_5.setIcon(new ImageIcon(TeamStatement.class.getResource("/images/Gender Neutral User_16px.png")));
 		label_5.setHorizontalAlignment(SwingConstants.CENTER);
 		label_5.setBounds(184, 272, 40, 30);
 		frame.getContentPane().add(label_5);
 		
 		JLabel label_6 = new JLabel("");
-		label_6.setIcon(new ImageIcon(TeamStatement.class.getResource("/Pic/Olympic Medal Gold_48px.png")));
+		label_6.setIcon(new ImageIcon(TeamStatement.class.getResource("/images/Olympic Medal Gold_48px.png")));
 		label_6.setHorizontalAlignment(SwingConstants.CENTER);
 		label_6.setBounds(358, 302, 56, 59);
 		frame.getContentPane().add(label_6);
 		
 		JLabel label_7 = new JLabel("");
-		label_7.setIcon(new ImageIcon(TeamStatement.class.getResource("/Pic/Olympic Medal Gold_48px.png")));
+		label_7.setIcon(new ImageIcon(TeamStatement.class.getResource("/images/Olympic Medal Gold_48px.png")));
 		label_7.setHorizontalAlignment(SwingConstants.CENTER);
 		label_7.setBounds(626, 302, 56, 59);
 		frame.getContentPane().add(label_7);
 		
 		JLabel label_8 = new JLabel("");
-		label_8.setIcon(new ImageIcon(TeamStatement.class.getResource("/Pic/Trophy_48px.png")));
+		label_8.setIcon(new ImageIcon(TeamStatement.class.getResource("/images/Trophy_48px.png")));
 		label_8.setHorizontalAlignment(SwingConstants.CENTER);
 		label_8.setBounds(503, 374, 67, 50);
 		frame.getContentPane().add(label_8);
@@ -195,19 +195,19 @@ public class TeamStatement {
 		frame.getContentPane().add(label_10);
 		
 		JLabel label_11 = new JLabel("");
-		label_11.setIcon(new ImageIcon(TeamStatement.class.getResource("/Pic/Person Male_16px.png")));
+		label_11.setIcon(new ImageIcon(TeamStatement.class.getResource("/images/Person Male_16px.png")));
 		label_11.setHorizontalAlignment(SwingConstants.CENTER);
 		label_11.setBounds(446, 181, 40, 29);
 		frame.getContentPane().add(label_11);
 		
 		JLabel label_12 = new JLabel("");
 		label_12.setHorizontalAlignment(SwingConstants.CENTER);
-		label_12.setIcon(new ImageIcon(TeamStatement.class.getResource("/Pic/Person Male_16px.png")));
+		label_12.setIcon(new ImageIcon(TeamStatement.class.getResource("/images/Person Male_16px.png")));
 		label_12.setBounds(446, 225, 40, 30);
 		frame.getContentPane().add(label_12);
 		
 		JLabel lblNewLabel_1 = new JLabel("");
-		lblNewLabel_1.setIcon(new ImageIcon(TeamStatement.class.getResource("/Pic/Person Male_16px.png")));
+		lblNewLabel_1.setIcon(new ImageIcon(TeamStatement.class.getResource("/images/Person Male_16px.png")));
 		lblNewLabel_1.setHorizontalAlignment(SwingConstants.CENTER);
 		lblNewLabel_1.setBounds(446, 270, 40, 32);
 		frame.getContentPane().add(lblNewLabel_1);
